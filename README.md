@@ -6,5 +6,6 @@
 
 
 - Enjoy the code and wish me luck :)
-![Differential Evolution Clustering](https://user-images.githubusercontent.com/11339420/148595948-5ee9f4a6-bbcb-4894-b2ec-a7f70606319c.JPG)
+
+![res](https://github.com/user-attachments/assets/f8d7b451-7758-49c9-aaac-14841b91be6b)
 
